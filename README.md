@@ -8,6 +8,7 @@
 ---
 
 ## 🚀 About Me
+- 🎓 Background in BMS. Bachelor of Management Studies 
 - 🎓 Currently learning **Data Analysis, Data Science & AI**
 - 📊 Skilled in **Excel, SQL, Power BI, Tableau**
 - 🐍 Currently learning **Python**
